@@ -1,3 +1,3 @@
-export * from './ReactNativeSVG';
+export * from './ReactNativeSVG.web';
 
-export { default } from './ReactNativeSVG';
+export { default } from './ReactNativeSVG.web';

@@ -20,7 +20,7 @@
     "types": ["react", "react-native"]
   },
   "files": [
-    "src/index.d.ts"
+    "src/index.native.d.ts"
   ],
-  "include": ["src/index.ts"]
+  "include": ["src/index.native.ts"]
 }
